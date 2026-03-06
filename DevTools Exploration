@@ -1,0 +1,54 @@
+# DevTools Exploration
+
+## Website 1: https://example.com
+
+1. HTML tags used:
+- html
+- head
+- title
+- body
+- div
+- h1
+- p
+- a
+
+2. Page title:
+Example Domain
+
+3. Number of headings:
+1 heading (h1)
+
+---
+
+## Website 2: https://developer.mozilla.org
+
+1. Navigation menu tag:
+<nav>
+
+2. Search bar structure:
+- form
+- input (type="search")
+- button
+
+3. Hover effect on links:
+When hovering over links the color changes and some links become underlined.
+
+---
+
+## Website 3: https://github.com
+
+1. Five HTML elements:
+- header
+- nav
+- button
+- input
+- footer
+
+2. Form element inputs:
+- text input
+- password input
+- email input
+- submit button
+
+3. Screenshot:
+(Insert screenshot of Elements panel here)
